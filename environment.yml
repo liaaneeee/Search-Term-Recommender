@@ -1,0 +1,10 @@
+name: orange-new
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - orange3
+  - sphinx
+  - sphinx_rtd_theme
+prefix: /opt/anaconda3/envs/orange-new
