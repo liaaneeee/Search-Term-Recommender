@@ -6,9 +6,9 @@ Imports one or multiple documents from TXT files which will serve as input for t
 Inputs
 ------
 
-None
+**None**
 
 Outputs
 -------
 
-* Documents: Raw text documents imported from TXT files
+* **Documents:** Raw text documents imported from TXT files
