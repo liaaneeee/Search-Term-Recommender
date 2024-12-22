@@ -13,9 +13,11 @@ documentation for details.
 Installation
 ------------
 
+Widgets
+------------
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Widgets:
+   :maxdepth: 1
 
    importer
    recommender
