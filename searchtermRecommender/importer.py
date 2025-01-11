@@ -1,6 +1,3 @@
-import os
-import pke
-
 from Orange.widgets import widget, gui
 from Orange.widgets.utils.signals import Output
 from Orange.widgets.utils.widgetpreview import WidgetPreview
@@ -15,7 +12,7 @@ from classes.document_list import DocumentList
 
 class Importer(widget.OWWidget):
     name = "Import documents"
-    description = "Imports one or multiple text files as input for the search term recommender0000"
+    description = "Imports one or multiple text files as input for the search term recommender"
     icon = "icons/file.svg"
     priority = 10
 
