@@ -6,9 +6,9 @@
 Search Term Recommender
 =======================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+The Search Term Recommender is an add-on for Orange3, a data mining software which allows users to build data mining workflows by visual programming. This add-on supports researchers in finding search terms for a systematic literature review (SLR) by recommending search terms based on a set of relevant input documents.
+
+The add-on consists of three widgets:
 
 
 Widgets
