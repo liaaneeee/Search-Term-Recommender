@@ -1,5 +1,5 @@
 # Search Term Recommender
-The [Search Term Recommender](https://search-term-recommender.readthedocs.io/en/latest/index.html) is an add-on for [Orange3](https://orangedatamining.com/), a data mining software which allows users to build data mining workflows by visual programming. This add-on supports researchers in finding search terms for a systematic literature review (SLR) by recommending search terms based on a set of relevant input documents. 
+The [Search Term Recommender](https://search-term-recommender.readthedocs.io/en/latest/index.html) is an add-on for [Orange3](https://orangedatamining.com/), a data mining software which allows users to build data mining workflows by visual programming. This add-on supports researchers in finding search terms for a systematic literature review (SLR) by recommending search terms based on a set of relevant input documents using the Keyphrase extraction method [MPRank](https://doi.org/10.18653/v1/N18-2105). 
 
 The add-on consists of three widgets:
 - [Import documents](https://search-term-recommender.readthedocs.io/en/latest/importer.html) 
