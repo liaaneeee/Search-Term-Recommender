@@ -44,6 +44,11 @@ The add-on consists of three widgets:
 2. Launch Orange by running either `orange-canvas` or `python -m Orange.canvas` from the command line
 3. The Add-on should appear as a category called **"Search Term Recommender"** in Orange. The category contains three widgets: **Import documents**, **Recommend search terms** and **Display search terms**. For more detailed usage information please refer to the [help pages](https://search-term-recommender.readthedocs.io/en/latest/) of the Add-on.
 
+
 ## Example
 
 ![Screenshot of an example workflow in Orange using the Search Term Recommender Add-on](ScreenshotOrange.png)
+
+
+## Author information
+Thao Van Liane Nguyen (nguyen12@uni-potsdam.de)
